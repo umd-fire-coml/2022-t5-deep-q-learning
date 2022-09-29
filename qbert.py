@@ -1,2 +1,2 @@
 import gym
-gym.make("ALE/Qbert-v5")
+env = gym.make("ALE/Qbert-v5")
