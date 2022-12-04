@@ -1,0 +1,8 @@
+Training Episode 470000: 	 Average reward = 378.40 +/- 35.75 /ep 
+
+Training Episode 1750000: 	 Average reward = -4.45 +/- 0.72 /ep 
+
+Training Episode 30000: 	 Average reward = 78.75 +/- 6.35 /ep 
+
+Training Episode 20000: 	 Average reward = 0.00 +/- 0.00 /ep 
+
